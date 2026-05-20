@@ -11,7 +11,6 @@ The study investigates the association between attachment styles, emotion regula
 - To model self-harm count data with excess zeros
 - To compare Poisson, Negative Binomial, ZIP, and ZINB models
 - To estimate mediation effects using Sims-based framework (MZIP/MZIDP)
-- To validate findings using Structural Equation Modeling (SEM)
 
 ---
 
